@@ -1,0 +1,5 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+cal_MoTuWeFrSaSu,1,1,1,0,1,1,1,20190401,20200401
+cal_MoTuWeThFrSa,1,1,1,1,1,1,0,20190401,20200401
+cal_MoTuWeThFrSaSu,1,1,1,1,1,1,1,20190401,20200401
+cal_MoTuWeThFrSu,1,1,1,1,1,0,1,20190401,20200401

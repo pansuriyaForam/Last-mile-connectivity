@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,default_lang,feed_start_date,feed_end_date,feed_version
+Generated from HMRL/SVIDA last-mile feeder data for project use,https://ltmetro.com/last-mile-connectivity/,en,en,20260101,20261231,2026-05-10-red-blue-v2-project-grade

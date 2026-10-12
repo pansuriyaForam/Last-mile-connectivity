@@ -1,0 +1,35 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_color,route_text_color
+MYP_R01,SVIDA,Route 01,Miyapur to Lingampally,7-Seater Feeder,3,1D4ED8,FFFFFF
+MYP_R02,SVIDA,Route 02,Miyapur to Gangaram DCB Bank,7-Seater Feeder,3,1D4ED8,FFFFFF
+MYP_R03,SVIDA,Route 03,Miyapur to Miyapur X Road,7-Seater Feeder,3,1D4ED8,FFFFFF
+MYP_R04,SVIDA,Route 04,Miyapur to Bachupally X Roads,7-Seater Feeder,3,1D4ED8,FFFFFF
+MYP_R05,SVIDA,Route 05,Miyapur to Beeramguda,7-Seater Feeder,3,1D4ED8,FFFFFF
+MYP_R06,SVIDA,Route 06,Miyapur to BHEL,7-Seater Feeder,3,1D4ED8,FFFFFF
+MYP_R07,SVIDA,Route 07,Miyapur to R C Puram Bus Stop,7-Seater Feeder,3,1D4ED8,FFFFFF
+MYP_R08,SVIDA,Route 08,Miyapur to Ashoknagar Bus Stop,7-Seater Feeder,3,1D4ED8,FFFFFF
+LBN_R01,SVIDA,Route 01,LB Nagar to Vanasthalipuram,12-Seater Feeder,3,1D4ED8,FFFFFF
+LBN_R02,SVIDA,Route 02,LB Nagar to Ganesh Temple,12-Seater Feeder,3,1D4ED8,FFFFFF
+LBN_R03,SVIDA,Route 03,LB Nagar to BN Reddy Colony,12-Seater Feeder,3,1D4ED8,FFFFFF
+NAG_R01,SVIDA,Nagole Route 01,Nagole to LB Nagar,12-Seater Feeder,3,0066CC,FFFFFF
+TAR_R01,SVIDA,Tarnaka Route 01,Tarnaka to Kushiguda,12-Seater Feeder,3,0066CC,FFFFFF
+TAR_R02,SVIDA,Tarnaka Route 02,Tarnaka to Housing Board,12-Seater Feeder,3,0066CC,FFFFFF
+MTG_R01,SVIDA,Mettuguda Route 01,Mettuguda to Safilguda,12-Seater Feeder,3,0066CC,FFFFFF
+MTG_R02,SVIDA,Mettuguda Route 02,Mettuguda to Malkajgiri,12-Seater Feeder,3,0066CC,FFFFFF
+MTG_R03,SVIDA,Mettuguda Route 03,Mettuguda to Neredmet,12-Seater Feeder,3,0066CC,FFFFFF
+MTG_R04,SVIDA,Mettuguda Route 04,Mettuguda to Anandbagh,12-Seater Feeder,3,0066CC,FFFFFF
+MTG_R05,SVIDA,Mettuguda Route 05,Mettuguda to Old Safilguda Colony,12-Seater Feeder,3,0066CC,FFFFFF
+MTG_R06,SVIDA,Mettuguda Route 06,Mettuguda to East Anandbagh Bus Stop,12-Seater Feeder,3,0066CC,FFFFFF
+MTG_R07,SVIDA,Mettuguda Route 07,Mettuguda to Krupa Complex Bus Stop,12-Seater Feeder,3,0066CC,FFFFFF
+PDG_R01,SVIDA,Paradeground Route 01,Paradeground to Radhika X Roads,12-Seater Feeder,3,0066CC,FFFFFF
+PDG_R02,SVIDA,Paradeground Route 02,Paradeground to Neredmet X Roads,12-Seater Feeder,3,0066CC,FFFFFF
+RDU_R01,SVIDA,Raidurg Route 01,Raidurg to DLF,12-Seater Feeder,3,0066CC,FFFFFF
+RDU_R02,SVIDA,Raidurg Route 02,Raidurg to ICICI Towers,12-Seater Feeder,3,0066CC,FFFFFF
+RDU_R03,SVIDA,Raidurg Route 03,Raidurg to Salarpuria Sattva,12-Seater Feeder,3,0066CC,FFFFFF
+RDU_R04,SVIDA,Raidurg Route 04,Raidurg to Tech Mahindra,12-Seater Feeder,3,0066CC,FFFFFF
+RDU_R05,SVIDA,Raidurg Route 05,Raidurg to HSBC,12-Seater Feeder,3,0066CC,FFFFFF
+RDU_R06,SVIDA,Raidurg Route 06,Raidurg to RMZ Nexity IT Park,12-Seater Feeder,3,0066CC,FFFFFF
+RDU_R07,SVIDA,Raidurg Route 07,Raidurg to VIT Ascendas Park,12-Seater Feeder,3,0066CC,FFFFFF
+RDU_R08,SVIDA,Raidurg Route 08,Raidurg to Waverock,12-Seater Feeder,3,0066CC,FFFFFF
+RDU_R09,SVIDA,Raidurg Route 09,Raidurg to TCS Synergy Park,12-Seater Feeder,3,0066CC,FFFFFF
+RDU_R06E,SVIDA,Raidurg Route 06E,Raidurg to Tech Mahindra via Lemon Tree / Divyasree / HSBC / DELL / N Heights / Value Labs / OSI,E-Auto 3-Seater Metro Ride,3,0066CC,FFFFFF
+RDU_R07C,SVIDA,Raidurg Route 07C,Raidurg to GAR / DLF / Waverock / US Consulate,TSRTC Cyber Liners,3,0066CC,FFFFFF
