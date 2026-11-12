@@ -1,0 +1,6 @@
+intervention_type,scenario_name,cost_band,lmci_gain,simulation_impact_score,stations_affected,intervention_type_rank
+multimodal,Integrated Multimodal Hub,High,3.0,1.9392631578947368,57,1
+feeder,Feeder Shuttle Integration,Medium,2.6999999999999997,1.6067543859649125,57,2
+frequency,Bus Frequency Enhancement,Medium,2.1,1.2497368421052633,57,3
+micromobility,E-Rickshaw Last-Mile Loop,Low,1.65,0.9818771929824561,57,4
+walkability,Pedestrian Access Upgrade,Low,1.3499999999999999,0.8032807017543859,57,5

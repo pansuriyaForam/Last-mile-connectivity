@@ -1,0 +1,14 @@
+check,passed,detail
+simulation_rows_created,True,rows=285
+best_interventions_available,True,rows=57
+simulation_impact_score_nonnegative,True,all impact scores are non-negative
+lmci_gain_nonnegative,True,all lmci gains are non-negative
+lmci_not_exceed_cap,True,no lmci gain exceeds cap of 3.0
+simulated_lmci_within_bounds,True,all simulated LMCI values ≤ 10
+priority_between_0_and_10,True,"all priority_index values are in [0,10]"
+scenario_id_unique,True,unique scenarios=5
+scenario_count_correct,True,"expected 285, got 285"
+priority_index_present,True,priority_index column exists
+demand_norm_valid,True,all demand_norm values between 0 and 1
+best_scenario_per_station,True,one best scenario per 57 station
+impact_score_sorted,True,impact scores sorted descending

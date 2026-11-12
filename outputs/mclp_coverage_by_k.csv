@@ -1,0 +1,11 @@
+k,selected_stations,covered_demand_points,total_demand_points,covered_weighted_demand,total_weighted_demand,coverage_pct
+1,Raidurg,35,970,35.0,1129.25,3.099402258135931
+2,Raidurg | Lakdi-ka-pul,50,970,50.25,1129.25,4.449856099180872
+3,Raidurg | Lakdi-ka-pul | Secunderabad West,62,970,65.25,1129.25,5.7781713526677
+4,Raidurg | Lakdi-ka-pul | Secunderabad West | Musheerabad,76,970,82.25,1129.25,7.283595306619437
+5,Raidurg | Lakdi-ka-pul | Secunderabad West | Musheerabad | Sultan Bazar,88,970,97.25,1129.25,8.611910560106265
+6,Raidurg | Lakdi-ka-pul | Secunderabad West | Musheerabad | Sultan Bazar | Paradise,97,970,106.75,1129.25,9.453176887314589
+7,Raidurg | Lakdi-ka-pul | Secunderabad West | Musheerabad | Sultan Bazar | Paradise | Ameerpet,110,970,120.25,1129.25,10.648660615452734
+8,Raidurg | Lakdi-ka-pul | Secunderabad West | Musheerabad | Sultan Bazar | Paradise | Ameerpet | Assembly,120,970,131.5,1129.25,11.644897055567855
+9,Raidurg | Lakdi-ka-pul | Secunderabad West | Musheerabad | Sultan Bazar | Paradise | Ameerpet | Assembly | S. R. Nagar,130,970,143.0,1129.25,12.66327208324109
+10,Raidurg | Lakdi-ka-pul | Secunderabad West | Musheerabad | Sultan Bazar | Paradise | Ameerpet | Assembly | S. R. Nagar | RTC Cross Roads,139,970,152.75,1129.25,13.526676998007527

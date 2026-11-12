@@ -1,0 +1,11 @@
+check,passed,detail
+station_rows_available,True,stations=57
+priority_index_not_null,True,priority_index computed for all stations
+priority_index_available,True,priority_index exists from LMCI
+priority_rank_available,True,priority_rank exists from LMCI
+priority_range_valid,True,priority_index range: 0.00 - 10.00 (0-10 scale)
+priority_reason_available,True,priority_reason generated for all stations
+coordinates_valid,True,station coordinates available
+mismatch_class_available,True,demand-service mismatch classes generated
+mclp_signal_available,False,MCLP candidate score attached
+priority_band_available,True,priority bands generated

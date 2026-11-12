@@ -1,0 +1,58 @@
+stop_name,stop_id,scenario_id,scenario_name,intervention_type,cost_band,priority_index,current_lmci,simulated_lmci,lmci_gain,lmci_deficit,effectiveness,impact_multiplier,simulation_impact_score,demand_norm,mclp_selected,desert_severity,stop_lat,stop_lon,intervention_rank,priority_band
+Ameerpet,AME,S4,Integrated Multimodal Hub,multimodal,High,9.481965652140053,0.0,3.0,3.0,10.0,1.0,1.37,6.468,0.6595744680851063,True,Persistent,17.4357214,78.4447933,1,High
+S. R. Nagar,SRN,S4,Integrated Multimodal Hub,multimodal,High,10.0,0.0,3.0,3.0,10.0,1.0,1.37,6.296,0.5319148936170213,True,Persistent,17.4431205,78.4407241,2,High
+Raidurg,RDG,S4,Integrated Multimodal Hub,multimodal,High,5.3078260875522165,0.0,3.0,3.0,10.0,1.0,1.37,4.363,1.0,True,Persistent,17.442,78.3772038,3,Medium-Low
+Durgam Cheruvu,DGC,S4,Integrated Multimodal Hub,multimodal,High,7.325353481292929,0.0,3.0,3.0,10.0,1.0,1.25,3.974,0.44680851063829785,False,Persistent,17.4429466,78.3875721,4,Medium-High
+Rasoolpura,ROP,S4,Integrated Multimodal Hub,multimodal,High,8.280644175134015,0.0,3.0,3.0,10.0,1.0,1.25,3.7,0.19148936170212766,False,Persistent,17.443612,78.4764053,5,High
+Miyapur,MYP,S4,Integrated Multimodal Hub,multimodal,High,9.499081384018208,0.0,3.0,3.0,10.0,1.0,1.25,3.638,0.02127659574468085,False,Persistent,17.4965452,78.3730262,6,High
+Yusufguda,YUG,S4,Integrated Multimodal Hub,multimodal,High,7.179166040727045,0.0,3.0,3.0,10.0,1.0,1.25,3.208,0.19148936170212766,False,Persistent,17.4351132,78.4273216,7,Medium-High
+Begumpet,BEG,S4,Integrated Multimodal Hub,multimodal,High,7.097642436683838,0.0,3.0,3.0,10.0,1.0,1.25,3.115,0.1702127659574468,False,Persistent,17.4375661,78.4569341,8,Medium-High
+Madhura Nagar,MUN,S4,Integrated Multimodal Hub,multimodal,High,5.703680146847826,0.0,3.0,3.0,10.0,1.0,1.25,2.867,0.3404255319148936,False,Persistent,17.4369652,78.4390993,9,Medium-Low
+Kukatpally,KUK,S4,Integrated Multimodal Hub,multimodal,High,7.403166463823421,0.0,3.0,3.0,10.0,1.0,1.1,2.807,0.14893617021276595,False,,17.4849033,78.4117896,10,Medium-High
+Balanagar,BLR,S4,Integrated Multimodal Hub,multimodal,High,7.158017620661391,0.0,3.0,3.0,10.0,1.0,1.25,2.798,0.0425531914893617,False,Persistent,17.4767464,78.4221082,11,Medium-High
+New Market,NEM,S4,Integrated Multimodal Hub,multimodal,High,6.5570219286885765,0.0,3.0,3.0,10.0,1.0,1.25,2.72,0.10638297872340426,False,Persistent,17.3734454,78.5031791,12,Medium-High
+Sultan Bazar,SUB,S4,Integrated Multimodal Hub,multimodal,High,5.165452861935945,0.0,3.0,3.0,10.0,1.0,1.2200000000000002,2.695,0.425531914893617,True,,17.3844473,78.4840241,13,Medium-Low
+KPHB Colony,KPH,S4,Integrated Multimodal Hub,multimodal,High,5.797026261604653,0.0,3.0,3.0,10.0,1.0,1.25,2.498,0.14893617021276595,False,Persistent,17.4937602,78.4018258,14,Medium-Low
+Musheerabad,MSH,S4,Integrated Multimodal Hub,multimodal,High,4.184757120382351,0.0,3.0,3.0,10.0,1.0,1.37,2.488,0.44680851063829785,True,Persistent,17.4178744,78.4995051,15,Medium-Low
+Habsiguda,HSG,S4,Integrated Multimodal Hub,multimodal,High,5.817905881876379,0.0,3.0,3.0,10.0,1.0,1.25,2.414,0.10638297872340426,False,Persistent,17.42018,78.540548,16,Medium-Low
+Peddamma Gudi,PED,S4,Integrated Multimodal Hub,multimodal,High,6.14971306875545,0.0,3.0,3.0,10.0,1.0,1.25,2.306,0.0,False,Persistent,17.4306512,78.4083721,17,Medium-High
+HITEC City,HTC,S4,Integrated Multimodal Hub,multimodal,High,4.160022326509395,0.0,3.0,3.0,10.0,1.0,1.25,2.257,0.44680851063829785,False,Persistent,17.4490055,78.3831376,18,Medium-Low
+RTC Cross Roads,RTC,S4,Integrated Multimodal Hub,multimodal,High,3.85131176782063,0.0,3.0,3.0,10.0,1.0,1.37,2.189,0.3829787234042553,True,Persistent,17.4070321,78.4968023,19,Low
+Road No 5 Jubilee Hills,JR5,S4,Integrated Multimodal Hub,multimodal,High,5.217958753466666,0.0,3.0,3.0,10.0,1.0,1.25,2.165,0.10638297872340426,False,Persistent,17.4300489,78.4232069,20,Medium-Low
+Mahatma Gandhi Bus Station,MGB,S4,Integrated Multimodal Hub,multimodal,High,4.093889749687028,0.0,3.0,3.0,10.0,1.0,1.25,2.123,0.3829787234042553,False,Persistent,17.3797886,78.4861571,21,Medium-Low
+Assembly,ASM,S4,Integrated Multimodal Hub,multimodal,High,3.908545577566052,0.0,3.0,3.0,10.0,1.0,1.37,2.119,0.3191489361702128,True,Persistent,17.3979907,78.4708797,22,Low
+Paradise,PAR,S4,Integrated Multimodal Hub,multimodal,High,4.27905855777539,0.0,3.0,3.0,10.0,1.0,1.2200000000000002,2.066,0.3191489361702128,True,,17.4434668,78.4862436,23,Medium-Low
+Musarambagh,MSB,S4,Integrated Multimodal Hub,multimodal,High,4.790187813104942,0.0,3.0,3.0,10.0,1.0,1.25,2.064,0.14893617021276595,False,Persistent,17.3710873,78.5119545,24,Medium-Low
+Khairatabad,KHA,S4,Integrated Multimodal Hub,multimodal,High,3.8244802741047024,0.0,3.0,3.0,10.0,1.0,1.25,2.014,0.40425531914893614,False,Persistent,17.4116323,78.4608678,25,Low
+ESI Hospital,ESI,S4,Integrated Multimodal Hub,multimodal,High,5.051055957330515,0.0,3.0,3.0,10.0,1.0,1.25,1.975,0.0425531914893617,False,Persistent,17.4486969,78.4376283,26,Medium-Low
+Gandhi Bhavan,GAB,S4,Integrated Multimodal Hub,multimodal,High,4.291911598834361,0.0,3.0,3.0,10.0,1.0,1.25,1.952,0.2127659574468085,False,Persistent,17.3858253,78.4733347,27,Medium-Low
+JNTU College,JNT,S4,Integrated Multimodal Hub,multimodal,High,4.663113545853098,0.0,3.0,3.0,10.0,1.0,1.25,1.935,0.10638297872340426,False,Persistent,17.4987037,78.3888668,28,Medium-Low
+Gandhi Hospital,GNH,S4,Integrated Multimodal Hub,multimodal,High,3.862425022713616,0.0,3.0,3.0,10.0,1.0,1.25,1.849,0.2765957446808511,False,Persistent,17.4255155,78.501956,29,Low
+Jubilee Hills Checkpost,JCP,S4,Integrated Multimodal Hub,multimodal,High,4.554624213680283,0.0,3.0,3.0,10.0,1.0,1.25,1.781,0.0425531914893617,False,Persistent,17.4281969,78.4137145,30,Medium-Low
+Chikkadpally,CDP,S4,Integrated Multimodal Hub,multimodal,High,3.5741109515174063,0.0,3.0,3.0,10.0,1.0,1.25,1.74,0.2978723404255319,False,Persistent,17.4003634,78.4948964,31,Low
+Prakash Nagar,PRN,S4,Integrated Multimodal Hub,multimodal,High,4.724636172469375,0.0,3.0,3.0,10.0,1.0,1.1,1.692,0.0851063829787234,False,Partial,17.4448889,78.4658749,32,Medium-Low
+Madhapur,MAD,S4,Integrated Multimodal Hub,multimodal,High,3.755380853848307,0.0,3.0,3.0,10.0,1.0,1.25,1.678,0.19148936170212766,False,Persistent,17.4372637,78.4004257,33,Low
+JBS Parade Ground,JBS,S4,Integrated Multimodal Hub,multimodal,High,3.594713915117228,0.0,3.0,3.0,10.0,1.0,1.25,1.635,0.2127659574468085,False,Persistent,17.4444775,78.497584,34,Low
+Nampally,NAM,S4,Integrated Multimodal Hub,multimodal,High,3.633789054876473,0.0,3.0,3.0,10.0,1.0,1.25,1.624,0.19148936170212766,False,Persistent,17.392222,78.4701612,35,Low
+Dilsukh Nagar,DSN,S4,Integrated Multimodal Hub,multimodal,High,3.742818888269816,0.0,3.0,3.0,10.0,1.0,1.25,1.583,0.1276595744680851,False,Persistent,17.3685493,78.5253873,36,Low
+Stadium,STD,S4,Integrated Multimodal Hub,multimodal,High,3.5990445065892835,0.0,3.0,3.0,10.0,1.0,1.25,1.522,0.1276595744680851,False,Persistent,17.4074002,78.5542531,37,Low
+Erragadda,ERA,S4,Integrated Multimodal Hub,multimodal,High,3.4376047714131404,0.0,3.0,3.0,10.0,1.0,1.25,1.426,0.10638297872340426,False,Persistent,17.4570487,78.4335811,38,Low
+Bharat Nagar,BTN,S4,Integrated Multimodal Hub,multimodal,High,3.2574583805762374,0.0,3.0,3.0,10.0,1.0,1.25,1.377,0.1276595744680851,False,Persistent,17.4629092,78.4305364,39,Low
+NGRI,NGR,S4,Integrated Multimodal Hub,multimodal,High,3.389122468075194,0.0,3.0,3.0,10.0,1.0,1.25,1.352,0.06382978723404255,False,Persistent,17.4148264,78.5463345,40,Low
+Victoria Memorial,VOM,S4,Integrated Multimodal Hub,multimodal,High,3.1466467673385754,0.0,3.0,3.0,10.0,1.0,1.25,1.306,0.10638297872340426,False,Persistent,17.3618565,78.5439622,41,Low
+Mettuguda,MET,S4,Integrated Multimodal Hub,multimodal,High,3.1551949569691526,0.0,3.0,3.0,10.0,1.0,1.25,1.284,0.0851063829787234,False,Persistent,17.4355207,78.5195754,42,Low
+Nagole,NAG,S4,Integrated Multimodal Hub,multimodal,High,3.324687014467039,0.0,3.0,3.0,10.0,1.0,1.25,1.273,0.02127659574468085,False,Persistent,17.3907683,78.5588222,43,Low
+Tarnaka,TAR,S4,Integrated Multimodal Hub,multimodal,High,3.1721480693044817,0.0,3.0,3.0,10.0,1.0,1.25,1.265,0.06382978723404255,False,Persistent,17.4274418,78.5300079,44,Low
+Panjagutta,PUN,S4,Integrated Multimodal Hub,multimodal,High,2.367623928478588,0.0,3.0,3.0,10.0,1.0,1.1,0.914,0.1702127659574468,False,,17.4289362,78.450955,45,Low
+Parade Ground,PRG,S4,Integrated Multimodal Hub,multimodal,High,2.031984600048065,0.0,3.0,3.0,10.0,1.0,1.1,0.842,0.2553191489361702,False,,17.4431943,78.4974687,46,Low
+Secunderabad West,SCR,S4,Integrated Multimodal Hub,multimodal,High,1.3071195463824536,0.0,3.0,3.0,10.0,1.0,1.2200000000000002,0.743,0.5531914893617021,True,,17.4338034,78.4995181,47,Low
+Lakdi-ka-pul,LKP,S4,Integrated Multimodal Hub,multimodal,High,0.9594844923807166,0.0,3.0,3.0,10.0,1.0,1.2200000000000002,0.53,0.5106382978723404,True,,17.4040433,78.4649442,48,Low
+Narayanaguda,NAR,S4,Integrated Multimodal Hub,multimodal,High,0.7881145109778136,0.0,3.0,3.0,10.0,1.0,1.1,0.332,0.2765957446808511,False,,17.3943658,78.4899578,49,Low
+Secunderabad East,SEC_E,S4,Integrated Multimodal Hub,multimodal,High,0.7760369950138873,0.0,3.0,3.0,10.0,1.0,1.1,0.327,0.2765957446808511,False,,17.4357184,78.5054623,50,Low
+Osmania Medical College,OMC,S4,Integrated Multimodal Hub,multimodal,High,0.6538768845356178,0.0,3.0,3.0,10.0,1.0,1.1,0.289,0.3404255319148936,False,,17.3820769,78.4817011,51,Low
+Malakpet,MKL,S4,Integrated Multimodal Hub,multimodal,High,0.6799125752026571,0.0,3.0,3.0,10.0,1.0,1.1,0.277,0.23404255319148937,False,,17.3771888,78.4939356,52,Low
+Erra Manzil,IRM,S4,Integrated Multimodal Hub,multimodal,High,0.670974723050253,0.0,3.0,3.0,10.0,1.0,1.1,0.269,0.2127659574468085,False,,17.4202292,78.4563489,53,Low
+Chaitanyapuri,CHP,S4,Integrated Multimodal Hub,multimodal,High,0.5132946851386945,0.0,3.0,3.0,10.0,1.0,1.1,0.177,0.0425531914893617,False,,17.3681501,78.5381335,54,Low
+Moosapet,MSP,S4,Integrated Multimodal Hub,multimodal,High,0.3603428896648752,0.0,3.0,3.0,10.0,1.0,1.1,0.129,0.0851063829787234,False,,17.4718855,78.4261182,55,Low
+Uppal,UPL,S4,Integrated Multimodal Hub,multimodal,High,0.295091625734439,0.0,3.0,3.0,10.0,1.0,1.1,0.108,0.10638297872340426,False,,17.4000665,78.5601868,56,Low
+L. B. Nagar,LBN,S1,Feeder Shuttle Integration,feeder,Medium,0.0,0.0,2.6999999999999997,2.6999999999999997,10.0,0.9,1.0,0.0,0.0851063829787234,False,,17.349846,78.5479412,57,Low
